@@ -1,6 +1,6 @@
 ## How to Install Pygame on a Mac
 
-[Pygame](https://www.pygame.org) is a gaming API written in, well, you guessed it, [Python](https://www.python.org). It lets you use the [Simple DirectMedia Layer (SDL 2)](https://www.libsdl.org) for all of your gaming needs.
+[Pygame](https://www.pygame.org) is a gaming API written in, well, you guessed it, [Python](https://www.python.org). It lets you use the [Simple DirectMedia Layer](https://www.libsdl.org) (SDL 2) for all of your gaming needs.
 
 ## Pygame Prerequisites For The Mac
 
